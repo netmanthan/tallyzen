@@ -3,22 +3,22 @@
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
 
-tallyzen/accounts/               @deepeshgarg007 @ruthra-kumar
-tallyzen/assets/                 @anandbaburajan @deepeshgarg007
-tallyzen/regional                @deepeshgarg007 @ruthra-kumar
-tallyzen/selling                 @deepeshgarg007 @ruthra-kumar
-tallyzen/support/                @deepeshgarg007
+tallyzen/accounts/              @netmanthan @netmanthan
+tallyzen/assets/                 @netmanthan@netmanthan
+tallyzen/regional               @netmanthan @netmanthan
+tallyzen/selling                @netmanthan @netmanthan
+tallyzen/support/               @netmanthan
 pos*                            
 
-tallyzen/buying/                 @rohitwaghchaure @s-aga-r
-tallyzen/maintenance/            @rohitwaghchaure @s-aga-r
-tallyzen/manufacturing/          @rohitwaghchaure @s-aga-r
-tallyzen/quality_management/     @rohitwaghchaure @s-aga-r
-tallyzen/stock/                  @rohitwaghchaure @s-aga-r
-tallyzen/subcontracting          @rohitwaghchaure @s-aga-r
+tallyzen/buying/                 @@netmanthan @netmanthan
+tallyzen/maintenance/            @@netmanthan @netmanthan
+tallyzen/manufacturing/          @@netmanthan @netmanthan
+tallyzen/quality_management/     @@netmanthan @netmanthan
+tallyzen/stock/                  @@netmanthan @netmanthan
+tallyzen/subcontracting          @@netmanthan @netmanthan
 
-tallyzen/controllers/            @deepeshgarg007 @rohitwaghchaure
-tallyzen/patches/                @deepeshgarg007 
+tallyzen/controllers/           @netmanthan @@netmanthan
+tallyzen/patches/               @netmanthan
 
-.github/                        @deepeshgarg007
-pyproject.toml                  @phot0n
+.github/                       @netmanthan
+pyproject.toml                  @netmanthan
