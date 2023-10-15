@@ -19,8 +19,8 @@ TallyZEN as a monolith includes the following areas for managing businesses:
 1. [CRM](https://tallyzen.com/open-source-crm)
 1. [Sales](https://tallyzen.com/open-source-sales-purchase)
 1. [Purchase](https://tallyzen.com/open-source-sales-purchase)
-1. [HRMS](https://tallyzen.com/open-source-hrms)
-1. [Project Management](https://tallyzen.com/open-source-projects)
+1. [HR](https://tallyzen.com/open-source-hrms)
+1. [OrderManagement](https://tallyzen.com/open-source-projects)
 1. [Support](https://tallyzen.com/open-source-help-desk-software)
 1. [Asset Management](https://tallyzen.com/open-source-asset-management-software)
 1. [Quality Management](https://tallyzen.com/docs/user/manual/en/quality-management)
@@ -29,7 +29,7 @@ TallyZEN as a monolith includes the following areas for managing businesses:
 1. [Customize TallyZEN](https://tallyzen.com/docs/user/manual/en/customize-tallyzen)
 1. [And More](https://tallyzen.com/docs/user/manual/en/)
 
-TallyZEN is built on the [NETMANTHAN](https://github.com/netmanthan/tzen), a full-stack web app framework built with Python & JavaScript.
+TallyZEN is built on the [NETMANTHAN](https://github.com/netmanthan/tzen), built with Python & JavaScript.
 
 ## Installation
 
@@ -42,10 +42,9 @@ TallyZEN is built on the [NETMANTHAN](https://github.com/netmanthan/tzen), a ful
 
 ### Manual Install
 
-The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/netmanthan/tallyz(bench) for more details.
+The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB).
 
-New passwords will be created for the TallyZEN "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
-
+New passwords will be created for the TallyZEN "Administrator" user, the MariaDB root user, 
 
 ## Learning and community
 
