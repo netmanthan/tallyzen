@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.100006mm"
+   height="38.10001mm"
+   viewBox="0 0 38.100006 38.10001"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" /><defs
+     id="defs1"><linearGradient
+       id="swatch1"
+       inkscape:swatch="solid"><stop
+         style="stop-color:#0097a7;stop-opacity:1;"
+         offset="0"
+         id="stop1" /></linearGradient></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.407365,-107.34517)"><path
+       id="rect5"
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:0"
+       d="m 64.407365,107.34517 v 38.1 h 38.100005 v -38.1 z m 20.137789,3.61373 h 2.113566 v 11.50111 h -2.113566 z m 3.403409,0 h 2.114083 v 11.50111 h -2.114083 z m -21.168217,0.15503 h 8.190715 v 2.02055 h -3.046326 v 9.32553 h -2.113566 v -9.32553 h -3.030823 z m 11.548133,2.06757 c 1.19674,0 2.253476,0.4817 2.921785,1.27434 v -1.0883 h 2.098063 v 9.09247 h -2.098063 v -1.18133 c -0.668309,0.85482 -1.756567,1.36788 -2.953308,1.36788 -2.191434,0 -4.475696,-1.7407 -4.475696,-4.72478 0,-3.01516 2.20699,-4.74028 4.507219,-4.74028 z m 12.433349,0.18604 h 2.238107 l 2.533181,6.12366 2.39365,-6.12366 h 2.207104 l -5.424479,13.28859 h -2.129069 l 1.911511,-4.64674 z m -12.122774,1.72547 c -1.554208,0 -2.750736,1.2275 -2.750736,2.79725 0,1.58529 1.196528,2.82877 2.750736,2.82877 1.569751,0 2.719731,-1.25902 2.719731,-2.82877 0,-1.55421 -1.14998,-2.79725 -2.719731,-2.79725 z m -11.237557,12.57495 h 9.158097 v 2.40554 l -6.267317,9.23612 h 6.267317 v 2.52233 h -9.371521 v -2.42569 l 6.266801,-9.21598 h -6.053377 z m 10.69082,0 h 8.401555 v 2.52232 h -5.762956 v 3.25924 h 5.762956 v 2.52284 h -5.762956 v 3.33726 h 5.762956 v 2.52233 h -8.401555 z m 9.875883,0 h 2.987932 l 6.131404,9.64282 v -9.64282 h 2.63912 v 14.16399 h -2.81378 l -6.30556,-9.95391 v 9.95391 H 87.9682 Z"
+       inkscape:export-filename="logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /></g></svg>
